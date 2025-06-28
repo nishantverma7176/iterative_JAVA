@@ -18,4 +18,5 @@ public class Question1 {
         }
         return true;
     }
+    public static void verma();
 }
